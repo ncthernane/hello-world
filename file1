@@ -1,1 +1,24 @@
-this is just a sample file
+this is an error from the visual studio to clone repository:
+
+Opening repositories:
+C:\Users\a0005475
+An existing Git repository was found in C:\Users\a0005475.
+Error encountered while fetching: Git failed with a fatal error.
+unable to access 'https://github.com/ncthernane/a0005475.git/': OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443 
+
+Error encountered while fetching: Git failed with a fatal error.
+unable to access 'https://github.com/ncthernane/a0005475.git/': OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443 
+
+Opening repositories:
+C:\Repository\industry0.5SAH
+Error encountered while pushing branch to the remote repository: Git failed with a fatal error.
+unable to access 'https://github.com/ncthernane/industry0.5SAH.git/': OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443 
+Pushing to https://github.com/ncthernane/industry0.5SAH.git
+
+Checked out master
+Error encountered while cloning the remote repository: Git failed with a fatal error.
+unable to access 'https://github.com/ncthernane/industry0.5SAH.git/': OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443 
+
+Error encountered while cloning the remote repository: Git failed with a fatal error.
+unable to access 'https://github.com/ncthernane/SampleRepo2.git/': OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443 
+
